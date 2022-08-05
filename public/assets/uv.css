@@ -2,3 +2,8 @@
   padding: 0;
   border: none;
 }
+
+.uv .leftPanel .top .title {
+  color: #fff;
+  font-family: sans-serif;
+}
